@@ -5,6 +5,6 @@ The work-day-scheduler is to be used as a daily planner to create an hourly sche
 
 The deployed webpage should resemble the following animation: <link href="./assets/worday-scheduler.gif"/>
 
-Deployed Link:
+Deployed Link: https://jackkkendrick.github.io/Work-Day-Scheduler/
 
-Repository Link: 
+Repository Link: https://github.com/jackkkendrick/Work-Day-Scheduler
